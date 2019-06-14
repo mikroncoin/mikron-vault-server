@@ -43,6 +43,7 @@ app.post('/api/node-api', async (req, res) => {
     'accounts_pending',
     'accounts_infos',
     'block',
+    'block_hash',
     'blocks',
     'block_count',
     'blocks_info',
