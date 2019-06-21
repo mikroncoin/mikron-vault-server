@@ -47,6 +47,7 @@ app.post('/api/node-api', async (req, res) => {
     'blocks',
     'block_count',
     'blocks_info',
+    'comment_search',
     'delegators_count',
     'pending',
     'process',
